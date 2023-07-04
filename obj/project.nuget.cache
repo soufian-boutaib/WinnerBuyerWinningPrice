@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "7lFiR68cijYBrNJf+Pe//GcBcbve6jNy3ubT4DkTtaoP44Uz502a2kPenHay5GsbFH3w6dZsrsSr7BI36icW5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soufian.boutaib\\source\\repos\\ConsoleApp1\\ConsoleApp1\\AuctionApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\soufian.boutaib\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
