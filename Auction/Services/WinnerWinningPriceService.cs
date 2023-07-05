@@ -42,16 +42,10 @@ namespace AuctionApp.Auction.Services
                         nonWinningBids.AddRange(winner?.Bids ?? Enumerable.Empty<int>());
                         winner = buyer;
                         winningPrice = buyer.Bids.Max();
-                    }
-                    else
-                    {
-                        nonWinningBids.AddRange(buyer.Bids);
+                        continue;
                     }
                 }
-                else
-                {
-                    nonWinningBids.AddRange(buyer.Bids);
-                }
+                nonWinningBids.AddRange(buyer.Bids);
             }
 
             return new WinnerWinningPriceResult
