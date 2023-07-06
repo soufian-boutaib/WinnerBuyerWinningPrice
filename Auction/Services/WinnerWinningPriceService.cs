@@ -30,7 +30,6 @@ namespace AuctionApp.Auction.Services
         {
             BuyerEntity winner = null;
             int reservePrice = _reservedPrice;
-            int winningPrice = reservePrice;
             List<int> nonWinningBids = new List<int>();
 
             foreach (var buyer in _buyers.Where(x => x.Bids?.Count > 0) )
@@ -41,7 +40,6 @@ namespace AuctionApp.Auction.Services
                     {
                         nonWinningBids.AddRange(winner?.Bids ?? Enumerable.Empty<int>());
                         winner = buyer;
-                        winningPrice = buyer.Bids.Max();
                         continue;
                     }
                 }
